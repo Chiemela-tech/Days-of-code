@@ -49,8 +49,8 @@ def romansToInt(s: str) -> int:
         s = s.replace("IV", "IIII").replace("IX", "VIIII")
         s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
         s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
-        for char in s:
-            number += romans_values[char]
+        for character in s:
+            number += romans_values[character]
         return number
 
 print(romansToInt("MMMCMXCIX")) 
