@@ -1,10 +1,10 @@
-# 100-Days-of-code
+# Days-of-code
 
 A huge step to deliberately write some Python codes for my upskilling
 
 ## 1st day of Code
 
-This was more like a refresh to Python with the print statement. I utilized the Replit platform for my first day of code.
+This was more like a refresher for Python with the print statement. I utilized the Replit platform for my first day of code.
 
 ## 2nd day of code
 
