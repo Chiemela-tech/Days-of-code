@@ -20,4 +20,3 @@ I solved the problem of converting integers to its corresponding Roman numerals.
 
 I solved the problem of finding the index of a number in an array using the searchInsert method. The algorithm essentially performs a **binary search** to find the position of the target in a sorted array - nums or to determine the position where the target should be inserted. It has a time complexity of O(log n) since it divides the search range in half in each iteration of the loop.
 
-## 5th day of code
